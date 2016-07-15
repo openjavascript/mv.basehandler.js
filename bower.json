@@ -12,8 +12,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "zepto": "~1.1.2"
-    , "mv.js": "~0.0.2"
+    "mv.js": "~0.0.2"
     , "mv.log.js": "~0.0.1"
     , "underscore": "~1.7.0"
   },

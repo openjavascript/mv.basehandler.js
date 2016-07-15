@@ -1,8 +1,8 @@
 {
-  "name": "mv.js",
-  "main": "mv.js",
-  "version": "0.0.2",
-  "homepage": "https://github.com/openjavascript/mv.js",
+  "name": "mv.basehandler.js",
+  "main": "mv.basehandler.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/openjavascript/mv.basehandler.js",
   "authors": [
     "qiushaowei <qiushaowei@360.cn>"
   ],
@@ -12,7 +12,10 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "zepto": "~1.1.2"
+    "zepto": "~1.1.2",
+    "mv.js": "~0.0.2",
+    "mv.log.js": "~0.0.1",
+    "underscore": "~1.7.0"
   },
   "moduleType": [
     "amd",
@@ -23,13 +26,13 @@
     "node_modules",
     "bower_components"
   ],
-  "_release": "0.0.2",
+  "_release": "0.0.1",
   "_resolution": {
     "type": "version",
-    "tag": "0.0.2",
-    "commit": "c5ae696588c2bb7f8d13a94b4e20e65da029605e"
+    "tag": "0.0.1",
+    "commit": "42386e4537721dd42b23b6b545498de3afaf6ae4"
   },
-  "_source": "https://github.com/openjavascript/mv.js.git",
-  "_target": "~0.0.2",
-  "_originalSource": "mv.js"
+  "_source": "https://github.com/openjavascript/mv.basehandler.js.git",
+  "_target": "~0.0.1",
+  "_originalSource": "mv.basehandler.js"
 }
