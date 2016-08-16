@@ -1,6 +1,4 @@
 var V = require( 'mv.js' )
-    , Log = require( 'mv.log.js' )
-    , _ = require( 'underscore' )
     ;
 
 /**
@@ -62,7 +60,6 @@ var _CONST = {
             return this;
         }
 };
+
 module.exports = V.BaseHandler = _CONST;
-
-
 
